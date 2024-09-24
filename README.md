@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there! I'm Isabella 👋
+
+🌱 Currently learning: HTML, CSS, JavaScript
+🎯 Goals: Becoming a front-end developer and building engaging projects
+📚 Currently enrolled in: FreeCodeCamp Web Development Course
+
+Follow my journey as I grow and develop my skills!
+
 
 <!--
 **LaWuly/LaWuly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
